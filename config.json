@@ -1,0 +1,9 @@
+{
+    "build_config": "Debug",
+    "auto_build": false,
+    "default_device": "iPhone 15",
+    "device_ip": "",
+    "simulator_path": "",
+    "build_input_dir": "",
+    "build_output_dir": ""
+}
